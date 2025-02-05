@@ -20,7 +20,7 @@ Understanding the layout of the GD Script:
 Code is delimited in blocks by using indentation. 
 In the figure below, everything in red is inside the "process" function.
 
-![[Screenshot_20250205_111534.png]]
+![[Screenshot_20250205_111534.png]](https://github.com/jwoods4815/ClassNotes-LCATC/blob/main/Game%20Design%20Class/Screenshot_20250205_111534.png?raw=true)
 
 The "if" statement is inside the "process" function and indented lines below are inside the "if" statement.
 
