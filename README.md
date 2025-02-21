@@ -1,2 +1,2 @@
 # ClassNotes-LCATC
-Obsidian Vault for Class notes
+Notes for classes
