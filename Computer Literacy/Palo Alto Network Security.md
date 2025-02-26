@@ -1,8 +1,8 @@
 Sign In or Sign up
 
-![[../../Pasted image 20250226091759.png]]
+![[Pasted image 20250226091759.png]]
 
-![[../../Pasted image 20250226091904.png]]
+![[Pasted image 20250226091904.png]]
 
 ![[../../Pasted image 20250226091944.png]]
 ![[../../Pasted image 20250226092026.png]]
