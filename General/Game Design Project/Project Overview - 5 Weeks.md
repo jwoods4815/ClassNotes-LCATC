@@ -1,7 +1,3 @@
-Absolutely! Below is a **6-week structured course plan** aligned with *The Art of Game Design*, dividing the book’s key concepts into weekly milestones. Each week combines theory, practical application, and playtesting, culminating in a final presentation.  
-
----
-
 ### **6-Week Platformer Game Design Course**  
 **Theme:** *Design, prototype, and refine a 2D platformer using Schell’s lenses.*  
 
@@ -52,25 +48,5 @@ Absolutely! Below is a **6-week structured course plan** aligned with *The Art o
 - **Prepare:**  
   - 5-min presentation (show prototype + lens-driven decisions).  
   - 1-page reflection: *"How did the lenses improve our design?"*  
-- **Book Wrap-Up:** Revisit Ch. 31 (Ethics) for discussion.  
 
----
 
-### **Weekly Workflow Example (Week 2):**  
-1. **Monday:** Read assigned chapters + discuss lenses in class.  
-2. **Wednesday:** Implement mechanics in-engine (e.g., double-jump).  
-3. **Friday:** Playtest → document feedback → adjust using *Lens of Balance*.  
-
-### **Tools to Use:**  
-- **Prototyping:** Unity 2D, Godot, PICO-8 (for simplicity).  
-- **Docs:** Markdown (GitHub), Miro (for lens diagrams).  
-- **Playtesting:** Google Forms for feedback.  
-
----
-
-### **Why This Works:**  
-- **Scaffolded Learning:** Each week builds on the last (concept → mechanics → polish).  
-- **Lens Integration:** Forces critical thinking (no "feature creep").  
-- **Portfolio-Ready:** End with a playable prototype + presentation.  
-
-Need adjustments for your class’s tech constraints or learning goals? Happy to refine!
